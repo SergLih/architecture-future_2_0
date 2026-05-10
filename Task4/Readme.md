@@ -2,4 +2,4 @@
 
 ![apply](./terraform_apply.png)
 
-[justification](./justification.md)
+[Обоснование конфигурации Terraform для Future 2.0](./justification.md)
